@@ -29,36 +29,6 @@ Renjith, Shini, et al. "An ensemble deep learning technique for detecting suicid
 Ghosh, Tapotosh, et al. "An attention-based hybrid architecture with explainability for depressive social media text detection in Bangla." Expert Systems with Applications 213 (2023): 119007.
 
 
-# AL-BTCN: A Self-Attention TCN-Based Model for Suicidal Ideation Detection from Social Media Posts
-
-This repository contains the official implementation and experimental resources for the paper:
-
-> **A self-attention TCN-based model for suicidal ideation detection from social media posts**  
-> Seyedeh Leili Mirtaheri, Sergio Greco, Reza Shahbazian  
-> *Expert Systems with Applications*, Volume 255, Part D, 2024, 124855  
-> [https://doi.org/10.1016/j.eswa.2024.124855](https://doi.org/10.1016/j.eswa.2024.124855)  
-> [Read on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417424017226)
-
----
-
-## 📘 Introduction
-
-This repository contains the implementation of the proposed method and experimental analysis of the paper _“A self-attention TCN-based model for suicidal ideation detection from social media posts,”_ published in *Expert Systems with Applications*, 2024.
-
-In this paper, we created a novel deep learning model that can detect suicidal ideation in social media posts, combined with a thorough semantic and statistical analysis. The model, named **AL-BTCN**, leverages a hybrid **LSTM–TCN architecture** enhanced with a **self-attention mechanism** to effectively capture linguistic and contextual features. 
-
-
----
-
-## ⚙️ Practical Guideline: Proposed Model
-
-The repository includes:
-
-- Implementation of the proposed AL-BTCN model
-- Baseline implementations of other state-of-the-art methods
-- Preprocessing and data loading routines
-- Scripts for training, evaluation, and visualization
-
 
 ## 📄 Citation
 
